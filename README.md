@@ -1,6 +1,8 @@
 ember-showdown-highlight
 ==============================================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shipshapecode/ember-showdown-highlight.svg)](https://greenkeeper.io/)
+
 [Short description of the addon.]
 
 Installation
