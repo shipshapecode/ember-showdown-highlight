@@ -20,7 +20,12 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "broccoli-merge-trees": "^3.0.0",
+    "broccoli-rollup": "^2.0.0",
+    "ember-cli-babel": "^6.6.0",
+    "rollup-plugin-commonjs": "^9.1.0",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "showdown-highlight": "^2.0.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
